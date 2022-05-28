@@ -1,7 +1,7 @@
 À
 
 ÀÇÅ
-Fuel Economy Guide Database files.
+# Fuel Economy Guide Database files.
 
 The ZIP'd versions of these files are named ??DATA.ZIP (e.g., 83DATA.ZIP)
 for 1978-1983 database files, ??MFGUI.ZIP (e.g., 93MFGUI.ZIP) for
