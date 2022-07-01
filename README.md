@@ -18,3 +18,13 @@ Learn the data wrangling process of gathering, assessing, and cleaning data. Lea
 * Project: [Wrangle and Analyze Data](https://nbviewer.org/github/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%203%20Data%20Wrangling/Project%202/wrangle_report.html)
 
 Estimated time: 23 days
+
+## PART 4: Careers: Elevator Pitch 
+
+## PART 5: Data Visualization
+
+Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.
+
+* Project: **Communicate Data Findings** loading..
+
+Estimated time: 31 days
