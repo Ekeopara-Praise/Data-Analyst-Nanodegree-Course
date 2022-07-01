@@ -5,7 +5,7 @@ Data Analyst Nanodegree Course
 
 Learn the data analysis process of questioning, wrangling, exploring, analyzing, and communicating data. Learn how to work with data in Python using libraries like NumPy and Pandas.
 
-* Project: **Investigate a Dataset**
+* Project: [Investigate a Dataset](https://github.com/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%201%20Introduction%20to%20Data%20Analysis/Project%20I/Investigate_a_Dataset.ipynb)
 
 Estimated time: 23 days
 
