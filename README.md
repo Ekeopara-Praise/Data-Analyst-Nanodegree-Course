@@ -15,6 +15,6 @@ Estimated time: 23 days
 
 Learn the data wrangling process of gathering, assessing, and cleaning data. Learn how to use Python to wrangle data programmatically and prepare it for deeper analysis.
 
-* Project: **Wrangle and Analyze Data**
+* Project: [Wrangle and Analyze Data](https://nbviewer.org/github/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%203%20Data%20Wrangling/Project%202/wrangle_report.html)
 
 Estimated time: 23 days
