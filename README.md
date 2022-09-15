@@ -25,6 +25,6 @@ Estimated time: 23 days
 
 Learn to apply sound design and data visualization principles to the data analysis process. Learn how to use analysis and visualizations to tell a story with data.
 
-* Project: **Communicate Data Findings** loading..
+* Project: [Communicate Data Findings](https://github.com/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%205%20Data%20Visualization/Project%203/Submision/Part_I_notebook.ipynb)
 
 Estimated time: 31 days
